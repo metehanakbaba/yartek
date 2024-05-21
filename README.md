@@ -218,3 +218,34 @@ Mobil Uygulama
 ![Uygulama fotografi - 2](https://github.com/metehanakbaba/yartek/blob/main/mobile/2.png?raw=true)
 ![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/mobile/3.png?raw=true)
 ![Uygulama fotografi - 4](https://github.com/metehanakbaba/yartek/blob/main/mobile/4.png?raw=true)
+
+---
+
+Admin Web Gorunum
+----
+
+![Uygulama fotografi - 1](https://github.com/metehanakbaba/yartek/blob/main/web/1.png?raw=true)
+![Uygulama fotografi - 2](https://github.com/metehanakbaba/yartek/blob/main/web/2.png?raw=true)
+![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/web/3.png?raw=true)
+![Uygulama fotografi - 4](https://github.com/metehanakbaba/yartek/blob/main/web/4.png?raw=true)
+![Uygulama fotografi - 1](https://github.com/metehanakbaba/yartek/blob/main/web/5.png?raw=true)
+![Uygulama fotografi - 2](https://github.com/metehanakbaba/yartek/blob/main/web/6.png?raw=true)
+![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/web/7.png?raw=true)
+
+
+---
+
+Admin Mobil Gorunum
+----
+
+![Uygulama fotografi - 1](https://github.com/metehanakbaba/yartek/blob/main/web/11.png?raw=true)
+![Uygulama fotografi - 2](https://github.com/metehanakbaba/yartek/blob/main/web/10.png?raw=true)
+![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/web/9.png?raw=true)
+![Uygulama fotografi - 4](https://github.com/metehanakbaba/yartek/blob/main/web/8.png?raw=true)
+![Uygulama fotografi - 1](https://github.com/metehanakbaba/yartek/blob/main/web/7.png?raw=true)
+![Uygulama fotografi - 2](https://github.com/metehanakbaba/yartek/blob/main/web/6.png?raw=true)
+![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/web/5.png?raw=true)
+![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/web/4.png?raw=true)
+![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/web/3.png?raw=true)
+![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/web/2.png?raw=true)
+![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/web/1.png?raw=true)
