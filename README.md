@@ -12,7 +12,7 @@ CRM Teklif Planı
 **Tarih:** 21 May 2024
 
 
-Web Dashboard (Yartek, Maaza)
+Web Dashboard (Yartek, Mağaza)
 -----
 
 #### Kullanıcı Yönetimi Modülü
