@@ -4,8 +4,11 @@ CRM Teklif Planı
 --------
 
 **Proje Adı:** Yartek CRM
+
 **Müşteri:** Yartek Soğutma San. Tic. Ltd. Şti.
+
 **Teklif Veren:** Metehan Akbaba (Digital Innovators)
+
 **Tarih:** 21 May 2024
 
 
@@ -208,3 +211,10 @@ Bu teklif geçerlilik süresi 15 gündür. Herhangi bir sorunuz varsa, lütfen b
 
 ---
 
+Mobil Uygulama
+----
+
+![Uygulama fotografi - 1](https://github.com/metehanakbaba/yartek/blob/main/mobile/1.png?raw=true)
+![Uygulama fotografi - 2](https://github.com/metehanakbaba/yartek/blob/main/mobile/2.png?raw=true)
+![Uygulama fotografi - 3](https://github.com/metehanakbaba/yartek/blob/main/mobile/3.png?raw=true)
+![Uygulama fotografi - 4](https://github.com/metehanakbaba/yartek/blob/main/mobile/4.png?raw=true)
